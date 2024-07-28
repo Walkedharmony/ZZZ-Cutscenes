@@ -1,6 +1,6 @@
-﻿using GICutscenes.Mergers.GIMKV.MKV.Generics;
+﻿using ZZZCutscenes.Mergers.ZZZMKV.MKV.Generics;
 
-namespace GICutscenes.Mergers.GIMKV.MKV.Elements.Attachment
+namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Elements.Attachment
 {
     internal class AttachedFile
     {
