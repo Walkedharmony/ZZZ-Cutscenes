@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers
+﻿namespace ZZZCutscenes.Mergers
 {
     internal interface Merger
     {
