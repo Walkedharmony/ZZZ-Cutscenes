@@ -1,6 +1,6 @@
-﻿using GICutscenes.Mergers.GIMKV.MKV.Generics;
+﻿using ZZZCutscenes.Mergers.ZZZMKV.MKV.Generics;
 
-namespace GICutscenes.Mergers.GIMKV.MKV.Elements.Tracks
+namespace GICutscenes.Mergers.ZZZMKV.MKV.Elements.Tracks
 {
     internal class TrackEntry : MKVContainerElement
     {
