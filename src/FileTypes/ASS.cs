@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using System.Text.RegularExpressions;
 
-namespace GICutscenes.FileTypes
+namespace ZZZCutscenes.FileTypes
 {
     internal class ASS
     {
