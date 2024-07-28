@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace GICutscenes.Utils;
+namespace ZZZCutscenes.Utils;
 
 internal class GithubRelease
 {
