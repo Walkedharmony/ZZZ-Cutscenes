@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers.GIMKV.MKV.Elements.Segment
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Elements.Segment
 {
     internal class Segment
     {
