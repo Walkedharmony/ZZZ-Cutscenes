@@ -1,7 +1,7 @@
 ﻿using System.CommandLine;
 using System.CommandLine.Binding;
 
-namespace GICutscenes
+namespace ZZZCutscenes
 {
     internal sealed class DemuxArgsOptions
     {
