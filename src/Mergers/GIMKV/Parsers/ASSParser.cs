@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace GICutscenes.Mergers.GIMKV.Parsers
+namespace ZZZCutscenes.Mergers.GIMKV.Parsers
 {
     internal class ASSParser : BaseParser
     {
