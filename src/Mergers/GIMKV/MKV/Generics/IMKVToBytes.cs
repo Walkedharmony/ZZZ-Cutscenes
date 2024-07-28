@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers.GIMKV.MKV.Generics
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Generics
 {
     internal interface IMKVToBytes
     {
