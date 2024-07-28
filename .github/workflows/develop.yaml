@@ -28,8 +28,8 @@ jobs:
         shell: bash
         # run: bash build-all.sh
         run: |
-          version=$(cat src/GICutscenes.csproj | grep -oP "<Version>\K([0-9]\.[0-9]\.[0-9])")
-          release_name="GICutscenes-$version-${GITHUB_SHA::6}-${{ matrix.arch }}"
+          version=$(cat src/ZZZCutscenes.csproj | grep -oP "<Version>\K([0-9]\.[0-9]\.[0-9])")
+          release_name="ZZZCutscenes-$version-${GITHUB_SHA::6}-${{ matrix.arch }}"
           release_name_standalone="$release_name-standalone"
 
           # Self contained
