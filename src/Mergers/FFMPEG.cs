@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
-using GICutscenes.FileTypes;
+using ZZZCutscenes.FileTypes;
 
-namespace GICutscenes.Mergers
+namespace ZZZCutscenes.Mergers
 {
     internal class FFMPEG : Merger
     {
