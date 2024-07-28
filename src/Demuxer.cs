@@ -1,9 +1,9 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Text.Json.Serialization.Metadata;
-using GICutscenes.FileTypes;
+using ZZZCutscenes.FileTypes;
 
-namespace GICutscenes
+namespace ZZZCutscenes
 {
     [JsonSourceGenerationOptions(WriteIndented = true)]
     [JsonSerializable(typeof(VersionList), GenerationMode = JsonSourceGenerationMode.Metadata)]
