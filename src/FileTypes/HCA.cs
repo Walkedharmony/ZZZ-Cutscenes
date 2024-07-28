@@ -1,4 +1,4 @@
-﻿using GICutscenes.Utils;
+﻿using ZZZCutscenes.Utils;
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 
