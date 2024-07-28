@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers.GIMKV.MKV.Elements.Cluster
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Elements.Cluster
 {
     internal class SimpleBlock : IBlockContainer
     {
