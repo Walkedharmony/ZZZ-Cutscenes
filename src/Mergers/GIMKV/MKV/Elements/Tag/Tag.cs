@@ -1,6 +1,6 @@
-﻿using GICutscenes.Mergers.GIMKV.MKV.Generics;
+﻿using ZZZCutscenes.Mergers.ZZZMKV.MKV.Generics;
 
-namespace GICutscenes.Mergers.GIMKV.MKV.Elements.Tag
+namespace ZZZCutscenes.Mergers.ZZMKV.MKV.Elements.Tag
 {
     internal class Tag : MKVContainerElement
     {
