@@ -1,7 +1,7 @@
 using System.CommandLine;
-using GICutscenes.FileTypes;
+using ZZZCutscenes.FileTypes;
 
-namespace GICutscenes;
+namespace ZZZCutscenes;
 
 public class ConvertHcaCommand : Command
 {
