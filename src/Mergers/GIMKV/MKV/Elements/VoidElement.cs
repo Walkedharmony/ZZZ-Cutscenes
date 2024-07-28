@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers.GIMKV.MKV.Elements
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Elements
 {
     internal class VoidElement
     {
