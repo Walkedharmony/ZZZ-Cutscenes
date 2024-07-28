@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.FileTypes
+﻿namespace ZZZCutscenes.FileTypes
 {
     internal class MKV
     {
