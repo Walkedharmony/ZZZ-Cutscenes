@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers.GIMKV.MKV.Elements.Cue
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Elements.Cue
 {
     internal class CueWrapper
     {
