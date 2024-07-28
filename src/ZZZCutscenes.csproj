@@ -1,16 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<Version>0.5.0</Version>
+		<Version>1.0</Version>
 		<OutputType>Exe</OutputType>
 		<TargetFramework>net8.0</TargetFramework>
 		<!--<RuntimeIdentifier>win-x64</RuntimeIdentifier>-->
 		<PublishTrimmed>true</PublishTrimmed>
-		<Authors>ToaHartor</Authors>
-		<RootNamespace>GICutscenes</RootNamespace>
-		<Description>A command line program playing with the cutscenes files (USM) from Genshin Impact.</Description>
+		<Authors>Clostro, ToaHartor</Authors>
+		<RootNamespace>ZZZCutscenes</RootNamespace>
+		<Description>A command line program playing with the cutscenes files (USM) from Zenless Zone Zero.</Description>
 		<PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
-		<RepositoryUrl>https://github.com/ToaHartor/GI-cutscenes</RepositoryUrl>
+		<RepositoryUrl>https://github.com/ClostroOffi/ZZZ-Cutscenes</RepositoryUrl>
 
 		<Nullable>enable</Nullable>
 		<LangVersion>preview</LangVersion>
