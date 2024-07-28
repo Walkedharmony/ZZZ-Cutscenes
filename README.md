@@ -41,7 +41,7 @@ For each platform (Windows, Linux, MacOS), two binaries are available:
 - a standalone build (self-contained executable) which can be run without dotnet installed
 - a framework dependant build (if you already have dotnet installed on your machine), much lighter but requires the dotnet runtime
 
-You can also get a GUI version in this [repository](https://github.com/SuperZombi/GICutscenesUI) (thanks to [SuperZombi](https://github.com/SuperZombi))
+You can also get a GUI version in this [repository](https://github.com/Clostro/ZZZ-Cutscenes-GUI) (thanks to [SuperZombi](https://github.com/SuperZombi))
 
 Merging solution is integrated without relying on external programs.
 However, if you wish to use other merging solutions than the one integrated, you can install MKVToolNix (which provides mkvmerge) or FFMPEG.
