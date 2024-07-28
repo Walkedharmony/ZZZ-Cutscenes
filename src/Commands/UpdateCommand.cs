@@ -3,9 +3,9 @@ using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using System.Net;
 using System.Text.Json;
-using GICutscenes.Utils;
+using ZZZCutscenes.Utils;
 
-namespace GICutscenes;
+namespace ZZZCutscenes;
 
 public class UpdateCommand : Command
 {
