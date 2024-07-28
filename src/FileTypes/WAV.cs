@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace GICutscenes.FileTypes
+namespace ZZZCutscenes.FileTypes
 {
     // Common interface for these types to be able to correctly marshal them (instead of using a dynamic type)
     internal interface IWavStruct { }
