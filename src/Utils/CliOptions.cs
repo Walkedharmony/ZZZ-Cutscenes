@@ -1,7 +1,7 @@
 using System.Buffers.Binary;
 using System.CommandLine;
 
-namespace GICutscenes;
+namespace ZZZCutscenes;
 
 public static class CliOptions
 {
