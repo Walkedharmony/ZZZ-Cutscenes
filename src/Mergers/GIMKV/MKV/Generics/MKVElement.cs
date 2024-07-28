@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace GICutscenes.Mergers.GIMKV.MKV.Generics
+namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Generics
 {
     internal class MKVElement<T> : IMKVToBytes
     {
