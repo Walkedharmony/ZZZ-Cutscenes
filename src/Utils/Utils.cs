@@ -1,7 +1,7 @@
 ﻿
 using System.Net;
 
-namespace GICutscenes.Utils
+namespace ZZZCutscenes.Utils
 {
     internal class Tools
     {
