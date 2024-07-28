@@ -2,9 +2,9 @@ using System.CommandLine;
 using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using System.IO;
-using GICutscenes.FileTypes;
-using GICutscenes.Mergers;
-using GICutscenes.Mergers.GIMKV;
+using ZZZCutscenes.FileTypes;
+using ZZZCutscenes.Mergers;
+using ZZZCutscenes.Mergers.GIMKV;
 
 namespace GICutscenes;
 
@@ -59,7 +59,7 @@ public class DemuxCommand : Command
         this.SetHandler(Execute, demuxArgsOptions);
     }
 
-    [RequiresUnreferencedCode("Calls GICutscenes.Program.ReadSetting()")]
+    [RequiresUnreferencedCode("Calls ZZZCutscenes.Program.ReadSetting()")]
     private static void Execute(DemuxArgsOptions demuxArgsOptions)
     {
         Program.ReadSetting();
@@ -203,7 +203,7 @@ public class DemuxCommand : Command
                 merger = new GIMKV(
                     basename,
                     outputPath,
-                    "GI-Cutscenes v0.5.0",
+                    "ZZZ-Cutscenes v1.0",
                     Path.Combine(outputPath, basename + ".ivf")
                 );
                 break;
