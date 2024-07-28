@@ -43,7 +43,7 @@ For each platform (Windows, Linux, MacOS), two binaries are available:
 
 You can also get a GUI version in this [repository](https://github.com/SuperZombi/GICutscenesUI) (thanks to [SuperZombi](https://github.com/SuperZombi))
 
-Starting from version **0.4.0**, an merging solution was integrated without relying on external programs.
+Merging solution is integrated without relying on external programs.
 However, if you wish to use other merging solutions than the one integrated, you can install MKVToolNix (which provides mkvmerge) or FFMPEG.
 
 ### 2. Configuration
