@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers.GIMKV.MKV
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.MKV
 {
     // Field signatures according to the matroska v4 spec
     internal static class Signatures
