@@ -1,4 +1,4 @@
-﻿namespace GICutscenes.Mergers.GIMKV.MKV.Elements.Attachment
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Elements.Attachment
 {
     internal class Attachment
     {
