@@ -4,7 +4,7 @@ using System.CommandLine.Parsing;
 using System.Diagnostics.CodeAnalysis;
 using Microsoft.Extensions.Configuration;
 
-namespace GICutscenes
+namespace ZZZCutscenes
 {
     internal sealed class Settings
     {
