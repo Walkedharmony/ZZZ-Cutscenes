@@ -1,7 +1,7 @@
 using System.Text;
-using GICutscenes.Utils;
+using ZZZCutscenes.Utils;
 
-namespace GICutscenes.FileTypes
+namespace ZZZCutscenes.FileTypes
 {
     internal struct Info
     {
