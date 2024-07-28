@@ -1,6 +1,6 @@
-﻿using GICutscenes.Mergers.GIMKV.MKV.Generics;
+﻿using ZZZCutscenes.Mergers.ZZZMKV.MKV.Generics;
 
-namespace GICutscenes.Mergers.GIMKV.MKV.Elements
+namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Elements
 {
     internal class Header : MKVContainerElement
     {
