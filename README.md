@@ -52,7 +52,7 @@ However, if you wish to use other merging solutions than the one integrated, you
 
 - "MkvMergePath" : The path where mkvmerge is installed. Leave it empty if you installed mkvtoolnix (the package/program providing mkvmerge) in the default path. However, change it to the path of the mkvmerge file in case you're using a different installation path or you're using the portable MKVToolNix version.
 - "FfmpegPath" : The path to the ffmpeg binary. Leave it empty if the binary is in the PATH of your operating system.
-- 
+
 ### 3. Commands
 
 There are 2 different commands available :
