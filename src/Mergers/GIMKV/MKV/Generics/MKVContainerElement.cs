@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 
-namespace ZZZCutscenes.Mergers.GIMKV.MKV.Generics
+namespace ZZZCutscenes.Mergers.ZZZMKV.MKV.Generics
 {
     [DynamicallyAccessedMembers(DynamicallyAccessedMemberTypes.PublicFields)] // Resolving Trim analysis warning 
     internal abstract class MKVContainerElement: IMKVToBytes
