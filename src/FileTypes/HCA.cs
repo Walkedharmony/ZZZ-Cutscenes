@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 
-namespace GICutscenes.FileTypes
+namespace ZZZCutscenes.FileTypes
 {
     /*
         * Header :   HCA\x00 or C8C3C100 if encrypted

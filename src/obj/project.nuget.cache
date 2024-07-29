@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "nh9kITuNPttO8BvmgqHcJk9BXTSuyFr5hmmfW8A8S51INj/PwXEAPczLi9Jtfd1JtXcdLCp+Z2NFqcLHXGIj5w==",
+  "success": true,
+  "projectFilePath": "F:\\ZZZ-Cutscenes-main\\src\\ZZZCutscenes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.binder.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.environmentvariables.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.fileextensions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.0-preview.1.24080.9\\microsoft.extensions.configuration.json.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.fileproviders.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.0-preview.1.24080.9\\microsoft.extensions.fileproviders.physical.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.0-preview.1.24080.9\\microsoft.extensions.filesystemglobbing.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.1.24080.9\\microsoft.extensions.primitives.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\roslynator.analyzers\\4.12.4\\roslynator.analyzers.4.12.4.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\roslynator.codeanalysis.analyzers\\4.12.4\\roslynator.codeanalysis.analyzers.4.12.4.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\roslynator.formatting.analyzers\\4.12.4\\roslynator.formatting.analyzers.4.12.4.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\system.text.encodings.web\\9.0.0-preview.1.24080.9\\system.text.encodings.web.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\Fernando Lampreia\\.nuget\\packages\\system.text.json\\9.0.0-preview.1.24080.9\\system.text.json.9.0.0-preview.1.24080.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -4,14 +4,14 @@ using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using ZZZCutscenes.FileTypes;
 using ZZZCutscenes.Mergers;
-using ZZZCutscenes.Mergers.GIMKV;
+using ZZZCutscenes.Mergers.ZZZMKV;
 
-namespace GICutscenes;
+namespace ZZZCutscenes;
 
 public class DemuxCommand : Command
 {
     public DemuxCommand()
-        : base("demux", "Demuxes USM files from GI in accordance to the known keys")
+        : base("demux", "Demuxes USM files from ZZZ in accordance to the known keys")
     {
         // CLI Options
         Argument<FileSystemInfo> demuxInputArg = new Argument<FileSystemInfo>(
@@ -200,7 +200,7 @@ public class DemuxCommand : Command
             case "internal":
                 Console.WriteLine("Merging using the internal engine.");
                 // Video track is already added
-                merger = new GIMKV(
+                merger = new ZZZMKV(
                     basename,
                     outputPath,
                     "ZZZ-Cutscenes v1.0",
