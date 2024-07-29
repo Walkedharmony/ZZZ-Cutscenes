@@ -1,4 +1,4 @@
-﻿namespace ZZZCutscenes.Mergers.GIMKV.Parsers
+﻿namespace ZZZCutscenes.Mergers.ZZZMKV.Parsers
 {
     internal class ParserManager
     {
