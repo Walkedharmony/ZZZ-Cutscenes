@@ -10,9 +10,9 @@ using ZZZCutscenes.Mergers.GIMKV.MKV.Generics;
 using ZZZCutscenes.Mergers.GIMKV.Parsers;
 using ZZZCutscenes.FileTypes;
 
-namespace GICutscenes.Mergers.GIMKV
+namespace ZZZCutscenes.Mergers.GIMKV
 {
-    internal class GIMKV: Merger
+    internal class ZZZMKV: Merger
     {
         // MKV utils
         public static readonly uint SegmentOffset = 0x1037;
